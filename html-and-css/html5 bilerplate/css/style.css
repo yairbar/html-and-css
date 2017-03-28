@@ -1,0 +1,17 @@
+.container
+{
+display: flex;
+    flex-flow: row;
+    flex-wrap: wrap;
+    
+}
+header h1,article h2,footer h3{
+    text-align: center;
+}
+header,section,article,footer{
+    border:3px solid #34348e;
+    border-collapse: collapse;
+}
+.width {
+    width: 100%;
+}
